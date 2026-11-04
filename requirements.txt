@@ -1,0 +1,9 @@
+# Libraries used in 03_python/HR_Analysis.ipynb
+# The notebook was last run with pandas 3.0, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9.
+# Older versions should work too; the minimums below are conservative.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+scikit-learn>=1.3
+jupyter
